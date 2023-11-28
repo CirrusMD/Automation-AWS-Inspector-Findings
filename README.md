@@ -4,7 +4,7 @@
 - Enable Google Drive API: Within the Apps Script Editor, enable the Google Drive API from the Services tab.
 
 ## Fetch AWS Inspector Results
-- AWS API Gateway: Since Google Apps Script can't directly interact with AWS services, set up an AWS API Gateway that triggers a Lambda function to get AWS Inspector results.
+- AWS API Gateway: Set up an AWS API Gateway that triggers a Lambda function to get AWS Inspector results.
 
 ## Google Apps Script to Interact with AWS
 - URL Fetch Service: Use the URL Fetch Service in Google Apps Script to make a request to your AWS API Gateway.
