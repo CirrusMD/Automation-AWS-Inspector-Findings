@@ -1,4 +1,4 @@
-# DRAFT - AWS Inspector Results Automation
+# DRAFT - Automation: AWS Inspector Findings to POAM
 
 ## Google Apps Script Project
 - Enable Google Drive API: Within the Apps Script Editor, enable the Google Drive API from the Services tab.
@@ -15,8 +15,8 @@
 - Create/Update File: Check if a CSV file exists. If not, create a new one, else update the existing file.
 
 
------------
 
+-----------
 ```
 ## FUTURE TO-DO
 ### Data Manuliplation Prior To Updating POAM
