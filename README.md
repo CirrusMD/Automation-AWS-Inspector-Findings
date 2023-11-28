@@ -22,7 +22,7 @@
 
 
 -----------
-## [FUTURE TO-DO] Add data into POAM for FedRAMP Requirements
+## [FUTURE TO-DO] Add data into POAM for FedRAMP Purposes
 
 ### Data Manipulation for POAM Update
 
