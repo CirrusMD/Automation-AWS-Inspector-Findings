@@ -1,4 +1,5 @@
 function fetchAwsInspectorResults() {
+  var url = '[AWS_API_GATEWAY_ENDPOINT]';
 
 }
 
