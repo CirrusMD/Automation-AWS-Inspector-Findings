@@ -1,4 +1,4 @@
-# DRAFT - Automation: AWS Inspector Findings to POAM
+# DRAFT - Automate the Uploading of AWS Inspector Findings into Google Drive
 
 ## Google Apps Script Project
 - Create Apps Script Project
