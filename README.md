@@ -1,4 +1,4 @@
-> This is public project and can be used as inspiration for others.
+> This is public project and can be used as inspiration for others or other can submit pull requests with their ideas.
 
 # Automate AWS Inspector Findings + POAM
 
