@@ -1,4 +1,6 @@
-# 
+> This is public project and can be used as inspiration for others.
+
+# Automate AWS Inspector Findings + POAM
 
 ## Automate the Uploading of AWS Inspector Findings into Google Drive
 
