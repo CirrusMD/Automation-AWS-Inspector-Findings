@@ -24,7 +24,7 @@
 -----------
 ## [FUTURE TO-DO] Add data into POAM for FedRAMP Requirements
 
-### Data Manuliplation Prior To Updating POAM
+### Data Manipulation for POAM Update
 
 ### Updating of POAM
 
