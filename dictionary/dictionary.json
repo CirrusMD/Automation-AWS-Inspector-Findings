@@ -21,122 +21,122 @@
   },
   {
     "field": "Weakness Detector Source",
-    "description": ")",
+    "description": "The scanner name or other source that detected the vulnerability",
     "type": "Text"
   },
   {
     "field": "Weakness Source Identifier",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Asset Identifier",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Point of Contact",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Resources Required",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Overall Remediation Plan",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Original Detection Date",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Scheduled Completion Date",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Planned Milestones",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Milestone Changes",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Status Date",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Vendor Dependency",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Last Vendor Check-in Date",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Vendor Dependent Product Name",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Original Risk Rating",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Adjusted Risk Rating",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Risk Adjustment",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "False Positive",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Operational Requirement",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Deviation Rationale",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Supporting Documents",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Comments",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Auto-Approve",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
     "field": "Binding Operational Directive 22-01 tracking",
-    "description": ")",
+    "description": "",
     "type": "Text"
   },
   {
