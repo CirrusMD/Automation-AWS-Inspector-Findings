@@ -15,8 +15,12 @@ def lambda_handler(event, context):
     findings = client.list_findings() # TO-DO: Additional processing or filters
 
     # Process and format the data
+    # Extracting specific details from each finding
     findings_data = json.dumps(findings) # TO-DO: Converts the response to JSON
 
+    # Log the processed data (or store/send it as needed)   
+    
+    
     # Return the processed data
     return {
         'statusCode': 200,
