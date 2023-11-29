@@ -1,6 +1,8 @@
 function fetchAwsInspectorResults() {
   var url = '[AWS_API_GATEWAY_ENDPOINT]';
-
+  var response = UrlFetchApp.fetch(url);
+  var data = JSON.parse(response.getContentText());
+  return data;
 }
 
 function convertToCsv(data) {
@@ -12,7 +14,6 @@ function updateGoogleDrive(csvData) {
 }
 
 function main() {
-
 
 }
 
