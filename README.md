@@ -5,8 +5,8 @@
 ## Automate the Uploading of AWS Inspector Findings into Google Drive
 
 ### Google Apps Script Project
-- Create Apps Script Project
-- Enable Google Drive API: Enable the Google Drive API from the Services tab.
+- ~~Create Apps Script Project~~
+- ~~Enable Google Drive API: Enable the Google Drive API from the Services tab.~~
 
 ### Fetch AWS Inspector Results
 - AWS API Gateway: Set up an AWS API Gateway that triggers a Lambda function to get AWS Inspector results.
